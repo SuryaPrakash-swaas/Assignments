@@ -1,0 +1,1 @@
+Select * from Customers where Email='john.doe@example.com';
